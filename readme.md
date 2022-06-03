@@ -2,7 +2,7 @@
 ## INSTRUCTIONS
 - Replace starting G-Code script with "Cura Starting Script.gcode" (copy and paste contents into *Settings > Printer > Manage Printers > Machine Settings > Start Gcode*)
 - Replace ending G-Code script with "Cura Ending Script.gcode" (copy and paste contents into *Settings > Printer > Manage Printers > Machine Settings > End Gcode*)
-- Run LTAZ6_Nozzle_Cleaning.gcode on Taz 6 (wipe nozzle with scotch brite pad while it cools from 245C to 170C)
+- Run LTAZ6_Nozzle_Cleaning.gcode on Taz 6 (wipe nozzle with scotch brite pad while it cools from 240C to 170C)
 - Run LTAZ6_Nozzle_Calibration.gcode
 
 ## NOTES
