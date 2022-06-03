@@ -6,4 +6,5 @@
 - Run LTAZ6_Nozzle_Calibration.gcode
 
 ## NOTES
-The bed level calibration values are maintained between prints but are lost when the printer is powered off.
+- The bed level calibration values are maintained between prints but are lost when the printer is powered off
+- The nozzle calibration routine ends by moving to 0.5mm above the bed (for a feeler gauge test)
